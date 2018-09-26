@@ -1,0 +1,6687 @@
+﻿{
+	"thems": [
+		{
+			"ID": 2029,
+			"resName": "(AlternateCommands)",
+			"iconPath": "",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 624,
+					"resName": "PL_unitRowHeightMax",
+					"ctrlKind": "XEST",
+					"ctrlID": 2004
+				},
+				{
+					"ID": 623,
+					"resName": "PL_unitRowHeightMin",
+					"ctrlKind": "XEST",
+					"ctrlID": 2003
+				},
+				{
+					"ID": 254,
+					"resName": "(KeySwitch edit)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 578,
+					"resName": "PL_unitFooter",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 239,
+					"resName": "(Style sheet editor)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 577,
+					"resName": "PL_unitHeader",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 579,
+					"resName": "PL_unitLine",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 497,
+					"resName": "PL_tipsButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 515,
+					"resName": "PL_urlDetectedAuto",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 516,
+					"resName": "PL_useCtrlCommandToOpen",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 533,
+					"resName": "PL_formulaButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 531,
+					"resName": "PL_formulaButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 532,
+					"resName": "PL_formulaButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 530,
+					"resName": "PL_formulaEditorButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 518,
+					"resName": "PL_filterButton",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 521,
+					"resName": "PL_list",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 520,
+					"resName": "PL_group",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 519,
+					"resName": "PL_menuBar",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2037,
+			"resName": "(CompatibilityRSRC)",
+			"iconPath": "",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": -999,
+					"resName": "(PL_)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 0,
+					"resName": "(Line Width Menu)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 1,
+					"resName": "PL_undo",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 2,
+					"resName": "PL_redo",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 3,
+					"resName": "PL_cut",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 4,
+					"resName": "(PL_)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 5,
+					"resName": "PL_paste",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 6,
+					"resName": "(PL_)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 7,
+					"resName": "PL_selectAll",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 351,
+					"resName": "(PL_)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 352,
+					"resName": "PL_source",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 370,
+					"resName": "(PL_Dehors)",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 243,
+					"resName": "PL_standardAction",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2003,
+					"synonyms": [
+						244
+					]
+				},
+				{
+					"ID": 244,
+					"resName": "PL_standardAction",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2004
+				},
+				{
+					"ID": 615,
+					"resName": "PL_standardAction",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2004
+				}
+			]
+		},
+		{
+			"ID": 2000,
+			"resName": "PL_formProperties",
+			"iconPath": "Images/PropertyList/PL_200.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 106,
+					"resName": "PL_formType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2014
+				},
+				{
+					"ID": 100,
+					"resName": "PL_formName",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 110,
+					"resName": "PL_inheritedFormTable",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2029
+				},
+				{
+					"ID": 111,
+					"resName": "PL_inheritedFormName",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2030
+				},
+				{
+					"ID": 101,
+					"resName": "PL_windowTitle",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 112,
+					"resName": "PL_systemHighlightColor",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 113,
+					"resName": "PL_editableByUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 168,
+					"resName": "PL_memoGeometry",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 165,
+					"resName": "PL_doNotInvertObjects",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 561,
+					"resName": "PL_publishedAsSubform",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2001,
+			"resName": "PL_formSize",
+			"iconPath": "Images/PropertyList/PL_201.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 150,
+					"resName": "PL_sizeBasedOn",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 151,
+					"resName": "PL_width",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 152,
+					"resName": "PL_height",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 153,
+					"resName": "PL_horMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 154,
+					"resName": "PL_vertMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 161,
+					"resName": "PL_dynamicAdjustment",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2031,
+			"resName": "PL_windowSize",
+			"iconPath": "Images/PropertyList/PL_231.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 155,
+					"resName": "PL_fixedWidth",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 157,
+					"resName": "PL_minimumWidth",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 158,
+					"resName": "PL_maximumWidth",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 156,
+					"resName": "PL_fixedHeight",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 159,
+					"resName": "PL_minimumHeight",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 160,
+					"resName": "PL_maximumHeight",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 163,
+					"resName": "PL_withConstraints",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2002,
+			"resName": "PL_objects",
+			"iconPath": "Images/PropertyList/PL_202.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 202,
+					"resName": "PL_pluginKind",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 200,
+					"resName": "PL_type",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 201,
+					"resName": "PL_objectName",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 241,
+					"resName": "PL_variableName",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 204,
+					"resName": "PL_variableType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2018,
+					"synonyms": [
+						512
+					]
+				},
+				{
+					"ID": 616,
+					"resName": "PL_collectionName",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 242,
+					"resName": "PL_title",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 441,
+					"resName": "PL_dataSource",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2048
+				},
+				{
+					"ID": 512,
+					"resName": "PL_variableType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2037
+				},
+				{
+					"ID": 565,
+					"resName": "PL_variableCalculation",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2054
+				},
+				{
+					"ID": 590,
+					"resName": "PL_memoValue",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2028,
+			"resName": "PL_textPictureAndWebArea",
+			"iconPath": "Images/PropertyList/PL_228.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 500,
+					"resName": "PL_buttonStyle",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2035
+				},
+				{
+					"ID": 501,
+					"resName": "PL_pictureSource",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2017
+				},
+				{
+					"ID": 502,
+					"resName": "PL_pictureNameId",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 556,
+					"resName": "PL_numberOfStates",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 503,
+					"resName": "PL_backgroundSource",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2017
+				},
+				{
+					"ID": 504,
+					"resName": "PL_backgroundNameId",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 505,
+					"resName": "PL_visibleTitle",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 506,
+					"resName": "PL_visibleIcon",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 507,
+					"resName": "PL_iconOffset",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 508,
+					"resName": "PL_horizontalMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 509,
+					"resName": "PL_verticalMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 499,
+					"resName": "PL_titlePicturePosition",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2034
+				},
+				{
+					"ID": 513,
+					"resName": "PL_withPopupMenu",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2042
+				}
+			]
+		},
+		{
+			"ID": 2003,
+			"resName": "PL_listBox",
+			"iconPath": "Images/PropertyList/PL_203.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 434,
+					"resName": "PL_numberOfColumns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 566,
+					"resName": "PL_numberOfLockedColumns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 448,
+					"resName": "PL_numberOfStaticColumns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 450,
+					"resName": "PL_highlightSet",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 539,
+					"resName": "PL_hiddenRowsArray",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 594,
+					"resName": "PL_doubleClickOnLine",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2040
+				},
+				{
+					"ID": 444,
+					"resName": "PL_selectionMode",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2039
+				},
+				{
+					"ID": 595,
+					"resName": "PL_detailFormName",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2047
+				}
+			]
+		},
+		{
+			"ID": 2034,
+			"resName": "PL_headers",
+			"iconPath": "Images/PropertyList/PL_234.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 582,
+					"resName": "PL_displayHeaders",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 567,
+					"resName": "PL_invisibleByDefault",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 569,
+					"resName": "PL_height",
+					"ctrlKind": "XEST",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2035,
+			"resName": "PL_footers",
+			"iconPath": "Images/PropertyList/PL_235.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 583,
+					"resName": "PL_displayFooters",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 568,
+					"resName": "PL_invisibleByDefault",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 570,
+					"resName": "PL_height",
+					"ctrlKind": "XEST",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2009,
+			"resName": "PL_gridlines",
+			"iconPath": "Images/PropertyList/PL_209.png",
+			"userLockCommand": 480,
+			"properties": [
+				{
+					"ID": 439,
+					"resName": "PL_horizontalLines",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 440,
+					"resName": "PL_horizontalLineColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 4
+				},
+				{
+					"ID": 437,
+					"resName": "PL_verticalLines",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 438,
+					"resName": "PL_verticalLineColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 4
+				}
+			]
+		},
+		{
+			"ID": 2033,
+			"resName": "PL_hierarchy",
+			"iconPath": "Images/PropertyList/PL_233.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 545,
+					"resName": "PL_hierarchicalListBox",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 546,
+					"resName": "PL_variable1",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 547,
+					"resName": "PL_variable2",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 548,
+					"resName": "PL_variable3",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 549,
+					"resName": "PL_variable4",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 550,
+					"resName": "PL_variable5",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 551,
+					"resName": "PL_variable6",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 552,
+					"resName": "PL_variable7",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 553,
+					"resName": "PL_variable8",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 554,
+					"resName": "PL_variable9",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 555,
+					"resName": "PL_variable10",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2023,
+			"resName": "PL_subform",
+			"iconPath": "Images/PropertyList/PL_223.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 281,
+					"resName": "PL_dataEntry",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2011
+				},
+				{
+					"ID": 282,
+					"resName": "PL_doubleClickable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 340,
+					"resName": "PL_source",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 341,
+					"resName": "PL_listForm",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2047
+				},
+				{
+					"ID": 342,
+					"resName": "PL_detailForm",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2047
+				},
+				{
+					"ID": 343,
+					"resName": "PL_automaticWidth",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 344,
+					"resName": "PL_selectionMode",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2039
+				},
+				{
+					"ID": 345,
+					"resName": "PL_enterableInList",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 346,
+					"resName": "PL_doubleClickOnLine",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2040
+				},
+				{
+					"ID": 347,
+					"resName": "PL_dblClickEmptyLine",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2041
+				},
+				{
+					"ID": 348,
+					"resName": "PL_allowDeletion",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 349,
+					"resName": "PL_outputSubform",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2021,
+			"resName": "PL_grid",
+			"iconPath": "Images/PropertyList/PL_221.png",
+			"userLockCommand": 479,
+			"properties": [
+				{
+					"ID": 360,
+					"resName": "PL_columns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 361,
+					"resName": "PL_rows",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2019,
+			"resName": "PL_scale",
+			"iconPath": "Images/PropertyList/PL_219.png",
+			"userLockCommand": 477,
+			"properties": [
+				{
+					"ID": 290,
+					"resName": "PL_minimum",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 291,
+					"resName": "PL_maximum",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 292,
+					"resName": "PL_unit",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 293,
+					"resName": "PL_step",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 294,
+					"resName": "PL_labelLocation",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2012
+				},
+				{
+					"ID": 295,
+					"resName": "PL_labelLocation",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2013
+				},
+				{
+					"ID": 296,
+					"resName": "PL_labels",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 297,
+					"resName": "PL_graduation",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 524,
+					"resName": "PL_pageStep",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 525,
+					"resName": "PL_pageSize",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2002
+				}
+			]
+		},
+		{
+			"ID": 2015,
+			"resName": "PL_dataSource",
+			"iconPath": "Images/PropertyList/PL_215.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 617,
+					"resName": "PL_selectedItem",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 618,
+					"resName": "PL_selectedPosition",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 619,
+					"resName": "PL_multiSelection",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 280,
+					"resName": "PL_defaultValues",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 240,
+					"resName": "PL_source",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000,
+					"synonyms": [
+						526
+					]
+				},
+				{
+					"ID": 251,
+					"resName": "PL_sourceField",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 277,
+					"resName": "PL_choiceList",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2008
+				},
+				{
+					"ID": 455,
+					"resName": "PL_expression",
+					"ctrlKind": "XEBT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 526,
+					"resName": "PL_masterTable",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 449,
+					"resName": "PL_namedSelection",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 456,
+					"resName": "PL_associatedVariable",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 529,
+					"resName": "PL_dataType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2037
+				},
+				{
+					"ID": 626,
+					"resName": "PL_dataType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2066
+				},
+				{
+					"ID": 585,
+					"resName": "PL_SaveAs",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2059
+				},
+				{
+					"ID": 587,
+					"resName": "PL_AutoInsert",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 588,
+					"resName": "PL_allowDeletion",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2016,
+			"resName": "PL_picture",
+			"iconPath": "Images/PropertyList/PL_216.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 460,
+					"resName": "PL_sourceHeaderLB",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2017
+				},
+				{
+					"ID": 353,
+					"resName": "PL_source",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2017,
+					"synonyms": [
+						460
+					]
+				},
+				{
+					"ID": 354,
+					"resName": "PL_nameId",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 322,
+					"resName": "PL_horMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 323,
+					"resName": "PL_vertMargin",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 350,
+					"resName": "PL_display",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2015
+				},
+				{
+					"ID": 461,
+					"resName": "PL_iconLocation",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2033
+				},
+				{
+					"ID": 527,
+					"resName": "PL_mirrorEffect",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2017,
+			"resName": "PL_crop",
+			"iconPath": "Images/PropertyList/PL_217.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 300,
+					"resName": "PL_rows",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001,
+					"synonyms": [
+						310,
+						320
+					]
+				},
+				{
+					"ID": 301,
+					"resName": "PL_columns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001,
+					"synonyms": [
+						311,
+						321
+					]
+				},
+				{
+					"ID": 310,
+					"resName": "PL_rows",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 311,
+					"resName": "PL_columns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 320,
+					"resName": "PL_rows",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 321,
+					"resName": "PL_columns",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2022,
+			"resName": "PL_animation",
+			"iconPath": "Images/PropertyList/PL_222.png",
+			"userLockCommand": 481,
+			"properties": [
+				{
+					"ID": 302,
+					"resName": "PL_switchContinuously",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 303,
+					"resName": "PL_loopBackToFirstFrame",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 304,
+					"resName": "PL_switchWhenRollOver",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 305,
+					"resName": "PL_switchBack",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 306,
+					"resName": "PL_useLastFrame",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 307,
+					"resName": "PL_switchEveryXTicks",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2004,
+			"resName": "PL_coordinatesSizing",
+			"iconPath": "Images/PropertyList/PL_204.png",
+			"userLockCommand": 470,
+			"properties": [
+				{
+					"ID": 210,
+					"resName": "PL_left",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 211,
+					"resName": "PL_top",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 212,
+					"resName": "PL_right",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 213,
+					"resName": "PL_bottom",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 214,
+					"resName": "PL_width",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001,
+					"synonyms": [
+						451
+					]
+				},
+				{
+					"ID": 451,
+					"resName": "PL_width",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 215,
+					"resName": "PL_height",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 620,
+					"resName": "PL_automaticRowHeight",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 621,
+					"resName": "PL_minRowHeight",
+					"ctrlKind": "XEST",
+					"ctrlID": 2003
+				},
+				{
+					"ID": 622,
+					"resName": "PL_maxRowHeight",
+					"ctrlKind": "XEST",
+					"ctrlID": 2004
+				},
+				{
+					"ID": 433,
+					"resName": "PL_rowHeight",
+					"ctrlKind": "XEST",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 601,
+					"resName": "PL_rowHeightArray",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 452,
+					"resName": "PL_minimumWidth",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 453,
+					"resName": "PL_maximumWidth",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 218,
+					"resName": "PL_roundRectRadius",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2010,
+			"resName": "PL_resizingOptions",
+			"iconPath": "Images/PropertyList/PL_210.png",
+			"userLockCommand": 471,
+			"properties": [
+				{
+					"ID": 216,
+					"resName": "PL_horizontalSizing",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2005
+				},
+				{
+					"ID": 217,
+					"resName": "PL_verticalSizing",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2005
+				},
+				{
+					"ID": 454,
+					"resName": "PL_resizable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 511,
+					"resName": "PL_pusher",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 600,
+					"resName": "PL_columnResize",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2014,
+			"resName": "PL_entry",
+			"iconPath": "Images/PropertyList/PL_214.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 270,
+					"resName": "PL_enterable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 247,
+					"resName": "PL_focusable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 248,
+					"resName": "PL_tabable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 271,
+					"resName": "PL_mandatory",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 273,
+					"resName": "PL_entryFilter",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 589,
+					"resName": "PL_placeHolder",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 283,
+					"resName": "PL_keyboardLayout",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2028
+				},
+				{
+					"ID": 272,
+					"resName": "PL_autoSpellcheck",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 543,
+					"resName": "PL_multiline",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2050
+				},
+				{
+					"ID": 523,
+					"resName": "PL_contextMenu",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 558,
+					"resName": "PL_selectAlwaysVisible",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 253,
+					"resName": "PL_shortcut",
+					"ctrlKind": "KSED",
+					"ctrlID": 0
+				},
+				{
+					"ID": 597,
+					"resName": "PL_singleClickEdit",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2020,
+			"resName": "PL_rangeOfValues",
+			"iconPath": "Images/PropertyList/PL_220.png",
+			"userLockCommand": 478,
+			"properties": [
+				{
+					"ID": 274,
+					"resName": "PL_defaultValue",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 275,
+					"resName": "PL_minimumValue",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 276,
+					"resName": "PL_maximumValue",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 278,
+					"resName": "PL_requiredList",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2009
+				},
+				{
+					"ID": 279,
+					"resName": "PL_excludedList",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2010
+				}
+			]
+		},
+		{
+			"ID": 2005,
+			"resName": "PL_display",
+			"iconPath": "Images/PropertyList/PL_205.png",
+			"userLockCommand": 475,
+			"properties": [
+				{
+					"ID": 170,
+					"resName": "PL_alphaFormat",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2003,
+					"synonyms": [
+						171,
+						172,
+						173,
+						176,
+						178
+					]
+				},
+				{
+					"ID": 171,
+					"resName": "PL_numberFormat",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2004
+				},
+				{
+					"ID": 172,
+					"resName": "PL_dateFormat",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2024
+				},
+				{
+					"ID": 173,
+					"resName": "PL_timeFormat",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2023
+				},
+				{
+					"ID": 176,
+					"resName": "PL_pictureFormat",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2022
+				},
+				{
+					"ID": 178,
+					"resName": "PL_booleanFormat",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2036
+				},
+				{
+					"ID": 174,
+					"resName": "PL_textWhenTrue",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 175,
+					"resName": "PL_textWhenFalse",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 466,
+					"resName": "PL_visible",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2038
+				},
+				{
+					"ID": 180,
+					"resName": "PL_invisibleByDefault",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 177,
+					"resName": "PL_invisible",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 510,
+					"resName": "PL_threeStates",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 514,
+					"resName": "PL_title",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 182,
+					"resName": "PL_displayType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2046
+				},
+				{
+					"ID": 183,
+					"resName": "PL_blankIfNull",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 299,
+					"resName": "PL_indicatorType",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2051
+				},
+				{
+					"ID": 557,
+					"resName": "PL_displayAs",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2052
+				},
+				{
+					"ID": 542,
+					"resName": "PL_wordwrap",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2050
+				},
+				{
+					"ID": 593,
+					"resName": "PL_wordwrap",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 599,
+					"resName": "PL_truncateWithEllipsis",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2007,
+			"resName": "PL_appearance",
+			"iconPath": "Images/PropertyList/PL_207.png",
+			"userLockCommand": 472,
+			"properties": [
+				{
+					"ID": 102,
+					"resName": "PL_platform",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 220,
+					"resName": "PL_platform",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2006,
+					"synonyms": [
+						102,
+						162,
+						181
+					]
+				},
+				{
+					"ID": 181,
+					"resName": "PL_platform",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2043
+				},
+				{
+					"ID": 162,
+					"resName": "PL_platform",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2044
+				},
+				{
+					"ID": 205,
+					"resName": "PL_defaultButton",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 252,
+					"resName": "PL_displayAs",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2019
+				},
+				{
+					"ID": 255,
+					"resName": "PL_hideFocusRectangle",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 613,
+					"resName": "PL_hideSystemHighlight",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 544,
+					"resName": "PL_tabControlDirection",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2031
+				},
+				{
+					"ID": 436,
+					"resName": "PL_horizontalScrollBar",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 238,
+					"resName": "PL_verticalScrollBar",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 537,
+					"resName": "PL_horizontalScrollBar",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2049
+				},
+				{
+					"ID": 538,
+					"resName": "PL_verticalScrollBar",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2049
+				},
+				{
+					"ID": 164,
+					"resName": "PL_textured",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 166,
+					"resName": "PL_toolbarButton",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 167,
+					"resName": "PL_hideGrowBox",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 602,
+					"resName": "PL_dpi",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2062
+				},
+				{
+					"ID": 603,
+					"resName": "PL_zoom",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2063
+				},
+				{
+					"ID": 604,
+					"resName": "PL_pageViewMode",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2064
+				},
+				{
+					"ID": 607,
+					"resName": "PL_showPageFrame",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 610,
+					"resName": "PL_showReference",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 608,
+					"resName": "PL_showHeaders",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 609,
+					"resName": "PL_showFooters",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 611,
+					"resName": "PL_showBackground",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 606,
+					"resName": "PL_showHiddenChar",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 605,
+					"resName": "PL_showHtmlWysiwyg",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 612,
+					"resName": "PL_horizontalRuler",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2011,
+			"resName": "PL_backgroundAndBorder",
+			"iconPath": "Images/PropertyList/PL_211.png",
+			"userLockCommand": 473,
+			"properties": [
+				{
+					"ID": 227,
+					"resName": "PL_transparent",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 222,
+					"resName": "PL_fillColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 0,
+					"synonyms": [
+						442
+					]
+				},
+				{
+					"ID": 442,
+					"resName": "PL_backgroundColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 3
+				},
+				{
+					"ID": 443,
+					"resName": "PL_alternateBgndColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 5
+				},
+				{
+					"ID": 459,
+					"resName": "PL_rowBackgroundColor",
+					"ctrlKind": "XEBT",
+					"ctrlID": 2003
+				},
+				{
+					"ID": 447,
+					"resName": "PL_rowBgndColorArray",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 221,
+					"resName": "PL_borderLineStyle",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2007,
+					"synonyms": [
+						517
+					]
+				},
+				{
+					"ID": 517,
+					"resName": "PL_borderLineStyle",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2045
+				},
+				{
+					"ID": 584,
+					"resName": "PL_LineStyle",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2058
+				},
+				{
+					"ID": 224,
+					"resName": "PL_lineColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 4
+				},
+				{
+					"ID": 226,
+					"resName": "PL_lineWidth",
+					"ctrlKind": "XLCH",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 225,
+					"resName": "PL_linePattern",
+					"ctrlKind": "XDSH",
+					"ctrlID": 0
+				},
+				{
+					"ID": 598,
+					"resName": "PL_hideEmptyRows",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2008,
+			"resName": "PL_text",
+			"iconPath": "Images/PropertyList/PL_208.png",
+			"userLockCommand": 474,
+			"properties": [
+				{
+					"ID": 230,
+					"resName": "PL_styleSheet",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 231,
+					"resName": "PL_font",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2008
+				},
+				{
+					"ID": 232,
+					"resName": "PL_fontSize",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2009
+				},
+				{
+					"ID": 233,
+					"resName": "PL_bold",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 234,
+					"resName": "PL_italic",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 235,
+					"resName": "PL_underline",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 445,
+					"resName": "PL_rowStyleArray",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 236,
+					"resName": "PL_fontColor",
+					"ctrlKind": "XCCH",
+					"ctrlID": 2
+				},
+				{
+					"ID": 446,
+					"resName": "PL_rowFontColorArray",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 237,
+					"resName": "PL_alignment",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2010
+				},
+				{
+					"ID": 457,
+					"resName": "PL_rowStyle",
+					"ctrlKind": "XEBT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 458,
+					"resName": "PL_rowFontColor",
+					"ctrlKind": "XEBT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 625,
+					"resName": "PL_metaInfo",
+					"ctrlKind": "XEBT",
+					"ctrlID": 2002
+				},
+				{
+					"ID": 560,
+					"resName": "PL_strikethrough",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 580,
+					"resName": "PL_verticalAlignment",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2057
+				},
+				{
+					"ID": 592,
+					"resName": "PL_rotation",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2060
+				},
+				{
+					"ID": 562,
+					"resName": "PL_multiStyleFormat",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2053
+				},
+				{
+					"ID": 559,
+					"resName": "PL_storeWithDefault",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 522,
+					"resName": "PL_multiStyle",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 596,
+					"resName": "PL_allowFontColorPicker",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2024,
+			"resName": "PL_plugin",
+			"iconPath": "Images/PropertyList/PL_224.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 203,
+					"resName": "PL_advancedProperties",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2018,
+			"resName": "PL_print",
+			"iconPath": "Images/PropertyList/PL_218.png",
+			"userLockCommand": 476,
+			"properties": [
+				{
+					"ID": 260,
+					"resName": "PL_printVariableFrame",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 261,
+					"resName": "PL_printFrame",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2021
+				},
+				{
+					"ID": 114,
+					"resName": "PL_settings",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2025,
+			"resName": "PL_menu",
+			"iconPath": "Images/PropertyList/PL_225.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 108,
+					"resName": "PL_associatedMenuBar",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2005
+				},
+				{
+					"ID": 109,
+					"resName": "PL_activeMenuBar",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2026,
+			"resName": "PL_accessRights",
+			"iconPath": "Images/PropertyList/PL_226.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 103,
+					"resName": "PL_access",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2006
+				},
+				{
+					"ID": 104,
+					"resName": "PL_owner",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2007
+				}
+			]
+		},
+		{
+			"ID": 2030,
+			"resName": "PL_markers",
+			"iconPath": "Images/PropertyList/PL_230.png",
+			"userLockCommand": 482,
+			"properties": [
+				{
+					"ID": 61,
+					"resName": "PL_formHeader",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 62,
+					"resName": "PL_formHeader1",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 63,
+					"resName": "PL_formHeader2",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 64,
+					"resName": "PL_formHeader3",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 65,
+					"resName": "PL_formHeader4",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 66,
+					"resName": "PL_formHeader5",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 67,
+					"resName": "PL_formHeader6",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 68,
+					"resName": "PL_formHeader7",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 69,
+					"resName": "PL_formHeader8",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 70,
+					"resName": "PL_formHeader9",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 71,
+					"resName": "PL_formHeader10",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 60,
+					"resName": "PL_formDetail",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 73,
+					"resName": "PL_formBreak",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 74,
+					"resName": "PL_formBreak1",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 75,
+					"resName": "PL_formBreak2",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 76,
+					"resName": "PL_formBreak3",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 77,
+					"resName": "PL_formBreak4",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 78,
+					"resName": "PL_formBreak5",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 79,
+					"resName": "PL_formBreak6",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 80,
+					"resName": "PL_formBreak7",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 81,
+					"resName": "PL_formBreak8",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 82,
+					"resName": "PL_formBreak9",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 83,
+					"resName": "PL_formBreak10",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				},
+				{
+					"ID": 72,
+					"resName": "PL_formFooter",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2036,
+			"resName": "PL_compatibility",
+			"iconPath": "",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 581,
+					"resName": "PL_scrollAreaBehaviour",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2013,
+			"resName": "PL_help",
+			"iconPath": "Images/PropertyList/PL_213.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 107,
+					"resName": "PL_helpTopicNumber",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 246,
+					"resName": "PL_helpTip",
+					"ctrlKind": "XDRE",
+					"ctrlID": 2001
+				}
+			]
+		},
+		{
+			"ID": 2012,
+			"resName": "PL_action",
+			"iconPath": "Images/PropertyList/PL_212.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 614,
+					"resName": "PL_standardActionEx",
+					"ctrlKind": "XDRP",
+					"ctrlID": 2065
+				},
+				{
+					"ID": 245,
+					"resName": "PL_method",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000,
+					"synonyms": [
+						105
+					]
+				},
+				{
+					"ID": 105,
+					"resName": "PL_method",
+					"ctrlKind": "XBUT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 298,
+					"resName": "PL_executeObjectMethod",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 249,
+					"resName": "PL_draggable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 536,
+					"resName": "PL_automaticDrag",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 250,
+					"resName": "PL_droppable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 534,
+					"resName": "PL_automaticDrop",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 535,
+					"resName": "PL_acceptObjectDrop",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 498,
+					"resName": "PL_movableRows",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 431,
+					"resName": "PL_sortable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 462,
+					"resName": "PL_multiSelectable",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2006,
+			"resName": "PL_events",
+			"iconPath": "Images/PropertyList/PL_206.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 371,
+					"resName": "PL_onLoad",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 379,
+					"resName": "PL_onVPLoad",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 426,
+					"resName": "PL_onPageChange",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 373,
+					"resName": "PL_onValidate",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 374,
+					"resName": "PL_onClicked",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 383,
+					"resName": "PL_onDoubleClicked",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 409,
+					"resName": "PL_onLongClick",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 408,
+					"resName": "PL_onArrowClick",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 412,
+					"resName": "PL_onHeaderClick",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 427,
+					"resName": "PL_onFooterClick",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 380,
+					"resName": "PL_onOutsideCall",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 381,
+					"resName": "PL_onActivate",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 382,
+					"resName": "PL_onDeactivate",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 375,
+					"resName": "PL_onHeader",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 378,
+					"resName": "PL_onDisplayDetail",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 385,
+					"resName": "PL_onGettingFocus",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 384,
+					"resName": "PL_onLosingFocus",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 416,
+					"resName": "PL_onBeginDragOver",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 391,
+					"resName": "PL_onDragOver",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 386,
+					"resName": "PL_onDrop",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 387,
+					"resName": "PL_onBeforeKeystroke",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 398,
+					"resName": "PL_onAfterKeystroke",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 388,
+					"resName": "PL_onMenuSelected",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 389,
+					"resName": "PL_onPluginArea",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 390,
+					"resName": "PL_onDataChange",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 415,
+					"resName": "PL_onAfterEdit",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 393,
+					"resName": "PL_onPrintingDetail",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 376,
+					"resName": "PL_onPrintingBreak",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 377,
+					"resName": "PL_onPrintingFooter",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 392,
+					"resName": "PL_onCloseBox",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 394,
+					"resName": "PL_onUnload",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 395,
+					"resName": "PL_onOpenDetail",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 396,
+					"resName": "PL_onCloseDetail",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 397,
+					"resName": "PL_onTimer",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 399,
+					"resName": "PL_onResize",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 400,
+					"resName": "PL_onAfterSort",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 401,
+					"resName": "PL_onSelectionChange",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 402,
+					"resName": "PL_onColumnMoved",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 403,
+					"resName": "PL_onColumnResize",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 404,
+					"resName": "PL_onRowMoved",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 405,
+					"resName": "PL_onMouseEnter",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 407,
+					"resName": "PL_onMouseMove",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 406,
+					"resName": "PL_onMouseLeave",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 372,
+					"resName": "PL_onMouseUp",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 410,
+					"resName": "PL_onLoadRecord",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 411,
+					"resName": "PL_onBeforeDataEntry",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 413,
+					"resName": "PL_onExpand",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 414,
+					"resName": "PL_onCollapse",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 417,
+					"resName": "PL_onBeginUrlLoading",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 418,
+					"resName": "PL_onUrlResourceLoading",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 419,
+					"resName": "PL_onEndUrlLoading",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 420,
+					"resName": "PL_onUrlLoadingError",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 421,
+					"resName": "PL_onUrlFiltering",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 422,
+					"resName": "PL_onOpenExternalLink",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 423,
+					"resName": "PL_onWindowOpeningDenied",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 424,
+					"resName": "PL_onBoundVariableChange",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 425,
+					"resName": "PL_onMacToolbarButton",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 428,
+					"resName": "PL_onDeleteKey",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 429,
+					"resName": "PL_onScroll",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2032,
+			"resName": "PL_webArea",
+			"iconPath": "Images/PropertyList/PL_232.png",
+			"userLockCommand": 483,
+			"properties": [
+				{
+					"ID": 540,
+					"resName": "PL_url",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 541,
+					"resName": "PL_progression",
+					"ctrlKind": "XEDT",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 563,
+					"resName": "PL_useIntegretedWebKit",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 591,
+					"resName": "PL_allow4Daccess",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		},
+		{
+			"ID": 2027,
+			"resName": "(User Form Locks)",
+			"iconPath": "Images/PropertyList/PL_227.png",
+			"userLockCommand": 0,
+			"properties": [
+				{
+					"ID": 470,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 471,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 472,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 473,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 474,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 475,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 476,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 477,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 478,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 479,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 480,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 481,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 482,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				},
+				{
+					"ID": 483,
+					"resName": "PL_modifiableByTheUser",
+					"ctrlKind": "XCHK",
+					"ctrlID": 2000
+				}
+			]
+		}
+	],
+	"objectKinds": [
+		{
+			"kindID": 1,
+			"kindName": "Graphic",
+			"objectIDs": [
+				1,
+				2,
+				3,
+				4,
+				9
+			]
+		},
+		{
+			"kindID": 2,
+			"kindName": "Picture",
+			"objectIDs": [
+				5,
+				6
+			]
+		},
+		{
+			"kindID": 3,
+			"kindName": "Text",
+			"objectIDs": [
+				7,
+				8
+			]
+		},
+		{
+			"kindID": 4,
+			"kindName": "Enterable",
+			"objectIDs": [
+				12,
+				13,
+				42
+			]
+		},
+		{
+			"kindID": 5,
+			"kindName": "Action",
+			"objectIDs": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"kindID": 6,
+			"kindName": "Scrollable",
+			"objectIDs": [
+				26,
+				37
+			]
+		},
+		{
+			"kindID": 7,
+			"kindName": "Droppable",
+			"objectIDs": [
+				27,
+				28,
+				29,
+				30,
+				33,
+				34
+			]
+		},
+		{
+			"kindID": 8,
+			"kindName": "Indicator",
+			"objectIDs": []
+		}
+	],
+	"domains": [
+		{
+			"ID": 1,
+			"resName": "PL_allThemes",
+			"iconPath": "Images/formEditor/allthemes.png",
+			"disablingMode": 0,
+			"themIDs": [
+				2000,
+				2001,
+				2031,
+				2002,
+				2028,
+				2003,
+				2034,
+				2035,
+				2009,
+				2033,
+				2023,
+				2021,
+				2019,
+				2015,
+				2016,
+				2017,
+				2022,
+				2004,
+				2010,
+				2014,
+				2020,
+				2005,
+				2007,
+				2011,
+				2008,
+				2024,
+				2018,
+				2025,
+				2026,
+				2030,
+				2036,
+				2013,
+				2012,
+				2006,
+				2032
+			]
+		},
+		{
+			"ID": 2,
+			"resName": "PL_definition",
+			"iconPath": "Images/formEditor/definition.png",
+			"disablingMode": 0,
+			"themIDs": [
+				2000,
+				2002,
+				2023,
+				2015,
+				2030
+			]
+		},
+		{
+			"ID": 3,
+			"resName": "PL_action",
+			"iconPath": "Images/formEditor/action.png",
+			"disablingMode": 2,
+			"themIDs": [
+				2012,
+				2006
+			]
+		},
+		{
+			"ID": 4,
+			"resName": "PL_geometry",
+			"iconPath": "Images/formEditor/geometry.png",
+			"disablingMode": 2,
+			"themIDs": [
+				2001,
+				2031,
+				2004,
+				2010
+			]
+		},
+		{
+			"ID": 5,
+			"resName": "PL_value",
+			"iconPath": "Images/formEditor/value.png",
+			"disablingMode": 2,
+			"themIDs": [
+				2015,
+				2014,
+				2020,
+				2005
+			]
+		},
+		{
+			"ID": 6,
+			"resName": "PL_look",
+			"iconPath": "Images/formEditor/look.png",
+			"disablingMode": 2,
+			"themIDs": [
+				2007,
+				2011,
+				2008
+			]
+		},
+		{
+			"ID": 7,
+			"resName": "PL_specific",
+			"iconPath": "Images/formEditor/specific.png",
+			"disablingMode": 1,
+			"themIDs": [
+				2028,
+				2003,
+				2034,
+				2035,
+				2009,
+				2033,
+				2023,
+				2021,
+				2019,
+				2016,
+				2017,
+				2022,
+				2024,
+				2018,
+				2025,
+				2026,
+				2036,
+				2013,
+				2032
+			]
+		}
+	],
+	"formObjects": [
+		{
+			"ID": 15,
+			"resName": "PL_3dButton",
+			"propertyIDs": [
+				500,
+				210,
+				216,
+				230,
+				614,
+				371,
+				200,
+				501,
+				211,
+				217,
+				220,
+				231,
+				246,
+				245,
+				254,
+				201,
+				502,
+				212,
+				181,
+				232,
+				241,
+				556,
+				213,
+				233,
+				373,
+				503,
+				214,
+				234,
+				249,
+				374,
+				504,
+				235,
+				383,
+				242,
+				505,
+				215,
+				221,
+				250,
+				409,
+				506,
+				527,
+				517,
+				236,
+				408,
+				507,
+				466,
+				508,
+				180,
+				509,
+				499,
+				253,
+				513,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 21,
+			"resName": "PL_3dCheckBox",
+			"propertyIDs": [
+				500,
+				210,
+				216,
+				230,
+				614,
+				371,
+				200,
+				501,
+				211,
+				217,
+				220,
+				231,
+				246,
+				245,
+				201,
+				502,
+				212,
+				181,
+				232,
+				241,
+				556,
+				213,
+				233,
+				373,
+				503,
+				214,
+				234,
+				249,
+				374,
+				504,
+				235,
+				383,
+				242,
+				505,
+				215,
+				221,
+				250,
+				409,
+				506,
+				527,
+				517,
+				236,
+				408,
+				507,
+				466,
+				508,
+				180,
+				590,
+				509,
+				499,
+				253,
+				513,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 23,
+			"resName": "PL_3dRadioButton",
+			"propertyIDs": [
+				500,
+				210,
+				216,
+				230,
+				371,
+				200,
+				501,
+				211,
+				217,
+				220,
+				231,
+				246,
+				245,
+				201,
+				502,
+				212,
+				181,
+				232,
+				241,
+				556,
+				213,
+				233,
+				373,
+				503,
+				214,
+				234,
+				249,
+				374,
+				504,
+				235,
+				383,
+				242,
+				505,
+				215,
+				221,
+				250,
+				409,
+				506,
+				527,
+				517,
+				236,
+				408,
+				507,
+				466,
+				508,
+				180,
+				590,
+				509,
+				499,
+				253,
+				513,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 43,
+			"resName": "PL_4DViewPro",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				245,
+				379,
+				201,
+				212,
+				241,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180,
+				385,
+				384,
+				390,
+				394
+			]
+		},
+		{
+			"ID": 42,
+			"resName": "PL_4DWrireArea",
+			"propertyIDs": [
+				210,
+				216,
+				270,
+				102,
+				227,
+				230,
+				260,
+				371,
+				211,
+				217,
+				247,
+				222,
+				231,
+				245,
+				201,
+				212,
+				248,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				234,
+				249,
+				374,
+				451,
+				589,
+				235,
+				536,
+				383,
+				215,
+				283,
+				255,
+				221,
+				250,
+				272,
+				517,
+				236,
+				534,
+				523,
+				180,
+				237,
+				558,
+				375,
+				378,
+				385,
+				602,
+				384,
+				603,
+				416,
+				604,
+				391,
+				607,
+				596,
+				386,
+				610,
+				387,
+				608,
+				398,
+				609,
+				611,
+				606,
+				390,
+				605,
+				415,
+				393,
+				376,
+				377,
+				394,
+				401,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 14,
+			"resName": "PL_button",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				247,
+				220,
+				222,
+				231,
+				246,
+				245,
+				254,
+				201,
+				212,
+				248,
+				181,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				205,
+				234,
+				249,
+				374,
+				235,
+				383,
+				242,
+				215,
+				255,
+				221,
+				250,
+				517,
+				236,
+				466,
+				180,
+				253,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 19,
+			"resName": "PL_buttonGrid",
+			"propertyIDs": [
+				210,
+				216,
+				614,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				201,
+				310,
+				212,
+				181,
+				241,
+				311,
+				213,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 20,
+			"resName": "PL_checkBox",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				247,
+				220,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				181,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				242,
+				215,
+				255,
+				221,
+				250,
+				517,
+				236,
+				466,
+				180,
+				590,
+				253,
+				510,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 1001,
+			"resName": "PL_column",
+			"propertyIDs": [
+				545,
+				270,
+				170,
+				230,
+				371,
+				546,
+				171,
+				231,
+				245,
+				201,
+				547,
+				454,
+				172,
+				442,
+				232,
+				241,
+				548,
+				280,
+				278,
+				173,
+				443,
+				233,
+				373,
+				549,
+				273,
+				279,
+				176,
+				459,
+				234,
+				374,
+				550,
+				451,
+				178,
+				447,
+				235,
+				383,
+				551,
+				277,
+				174,
+				445,
+				552,
+				455,
+				620,
+				175,
+				236,
+				408,
+				512,
+				553,
+				446,
+				412,
+				554,
+				523,
+				237,
+				427,
+				555,
+				177,
+				457,
+				529,
+				458,
+				452,
+				514,
+				585,
+				453,
+				182,
+				587,
+				580,
+				385,
+				384,
+				559,
+				416,
+				593,
+				522,
+				391,
+				599,
+				386,
+				387,
+				398,
+				390,
+				415,
+				394,
+				400,
+				402,
+				403,
+				404,
+				411
+			]
+		},
+		{
+			"ID": 27,
+			"resName": "PL_comboBox",
+			"propertyIDs": [
+				210,
+				216,
+				170,
+				230,
+				371,
+				200,
+				211,
+				217,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				172,
+				181,
+				232,
+				241,
+				280,
+				213,
+				173,
+				233,
+				373,
+				204,
+				214,
+				273,
+				279,
+				234,
+				249,
+				374,
+				589,
+				235,
+				536,
+				383,
+				277,
+				215,
+				255,
+				221,
+				250,
+				517,
+				236,
+				534,
+				466,
+				180,
+				237,
+				375,
+				587,
+				378,
+				385,
+				384,
+				416,
+				391,
+				596,
+				386,
+				387,
+				398,
+				390,
+				415,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 39,
+			"resName": "PL_compositeButton",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				245,
+				201,
+				212,
+				241,
+				213,
+				373,
+				214,
+				249,
+				374,
+				383,
+				242,
+				215,
+				250,
+				375,
+				385,
+				384,
+				416,
+				391,
+				386,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 32,
+			"resName": "PL_dial",
+			"propertyIDs": [
+				290,
+				210,
+				216,
+				270,
+				371,
+				200,
+				291,
+				211,
+				217,
+				220,
+				222,
+				246,
+				245,
+				201,
+				292,
+				212,
+				181,
+				241,
+				293,
+				213,
+				298,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 12,
+			"resName": "PL_field",
+			"propertyIDs": [
+				210,
+				216,
+				270,
+				274,
+				170,
+				227,
+				230,
+				260,
+				371,
+				200,
+				211,
+				217,
+				247,
+				275,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				276,
+				172,
+				181,
+				232,
+				213,
+				271,
+				278,
+				173,
+				233,
+				373,
+				240,
+				214,
+				273,
+				279,
+				176,
+				234,
+				249,
+				374,
+				251,
+				589,
+				252,
+				235,
+				536,
+				383,
+				242,
+				277,
+				215,
+				283,
+				174,
+				255,
+				221,
+				250,
+				527,
+				272,
+				175,
+				517,
+				236,
+				534,
+				543,
+				466,
+				523,
+				180,
+				436,
+				237,
+				558,
+				238,
+				537,
+				538,
+				585,
+				560,
+				375,
+				587,
+				183,
+				378,
+				592,
+				385,
+				562,
+				384,
+				542,
+				559,
+				416,
+				522,
+				391,
+				596,
+				386,
+				387,
+				398,
+				390,
+				415,
+				393,
+				376,
+				377,
+				394,
+				401,
+				405,
+				407,
+				406,
+				372,
+				429
+			]
+		},
+		{
+			"ID": 1003,
+			"resName": "PL_footer",
+			"propertyIDs": [
+				170,
+				230,
+				171,
+				231,
+				246,
+				201,
+				172,
+				442,
+				232,
+				241,
+				173,
+				233,
+				204,
+				214,
+				176,
+				234,
+				235,
+				236,
+				565,
+				237,
+				580,
+				593,
+				599
+			]
+		},
+		{
+			"ID": 0,
+			"resName": "PL_form",
+			"propertyIDs": [
+				106,
+				150,
+				155,
+				102,
+				108,
+				103,
+				61,
+				107,
+				371,
+				100,
+				151,
+				157,
+				109,
+				104,
+				62,
+				110,
+				152,
+				158,
+				114,
+				63,
+				105,
+				426,
+				111,
+				153,
+				156,
+				162,
+				64,
+				373,
+				101,
+				154,
+				159,
+				65,
+				374,
+				112,
+				161,
+				160,
+				66,
+				383,
+				113,
+				163,
+				67,
+				168,
+				68,
+				165,
+				69,
+				561,
+				70,
+				71,
+				380,
+				60,
+				381,
+				73,
+				382,
+				164,
+				74,
+				375,
+				166,
+				75,
+				378,
+				167,
+				76,
+				385,
+				77,
+				384,
+				78,
+				416,
+				79,
+				391,
+				80,
+				386,
+				81,
+				387,
+				82,
+				398,
+				83,
+				388,
+				72,
+				389,
+				390,
+				415,
+				393,
+				376,
+				377,
+				392,
+				394,
+				395,
+				396,
+				397,
+				399,
+				401,
+				405,
+				407,
+				406,
+				410,
+				424
+			]
+		},
+		{
+			"ID": 38,
+			"resName": "PL_formPopup",
+			"propertyIDs": [
+				210,
+				216,
+				614,
+				371,
+				200,
+				211,
+				217,
+				245,
+				201,
+				340,
+				212,
+				241,
+				213,
+				373,
+				342,
+				214,
+				249,
+				374,
+				383,
+				242,
+				215,
+				250,
+				375,
+				416,
+				391,
+				386,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 35,
+			"resName": "PL_graph",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				201,
+				212,
+				181,
+				241,
+				213,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 10,
+			"resName": "PL_group",
+			"propertyIDs": [
+				210,
+				216,
+				200,
+				211,
+				217,
+				220,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180
+			]
+		},
+		{
+			"ID": 8,
+			"resName": "PL_groupBox",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				200,
+				211,
+				217,
+				220,
+				231,
+				201,
+				212,
+				181,
+				232,
+				213,
+				233,
+				214,
+				234,
+				235,
+				215,
+				236,
+				466,
+				180,
+				237
+			]
+		},
+		{
+			"ID": 1002,
+			"resName": "PL_header",
+			"propertyIDs": [
+				460,
+				230,
+				231,
+				246,
+				201,
+				354,
+				232,
+				241,
+				233,
+				214,
+				234,
+				235,
+				242,
+				461,
+				527,
+				236,
+				237,
+				580
+			]
+		},
+		{
+			"ID": 26,
+			"resName": "PL_hierarchicalList",
+			"propertyIDs": [
+				210,
+				216,
+				270,
+				227,
+				230,
+				371,
+				200,
+				211,
+				217,
+				247,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				181,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				273,
+				234,
+				249,
+				374,
+				235,
+				383,
+				277,
+				215,
+				255,
+				221,
+				250,
+				527,
+				272,
+				517,
+				236,
+				466,
+				180,
+				537,
+				462,
+				538,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				390,
+				415,
+				393,
+				376,
+				377,
+				394,
+				401,
+				405,
+				407,
+				406,
+				413,
+				414,
+				428
+			]
+		},
+		{
+			"ID": 30,
+			"resName": "PL_hierarchicalPopupMenu",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				171,
+				220,
+				231,
+				246,
+				245,
+				201,
+				212,
+				172,
+				181,
+				232,
+				241,
+				213,
+				173,
+				233,
+				373,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				277,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				375,
+				378,
+				416,
+				391,
+				386,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 17,
+			"resName": "PL_highlightButton",
+			"propertyIDs": [
+				210,
+				216,
+				614,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				254,
+				201,
+				212,
+				181,
+				241,
+				213,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				409,
+				517,
+				466,
+				180,
+				253,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 16,
+			"resName": "PL_invisibleButton",
+			"propertyIDs": [
+				210,
+				216,
+				614,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				254,
+				201,
+				212,
+				241,
+				213,
+				511,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				409,
+				517,
+				466,
+				180,
+				253,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 6,
+			"resName": "PL_libraryPicture",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				200,
+				211,
+				217,
+				201,
+				354,
+				212,
+				213,
+				214,
+				350,
+				215,
+				527,
+				466,
+				180
+			]
+		},
+		{
+			"ID": 4,
+			"resName": "PL_line",
+			"propertyIDs": [
+				210,
+				216,
+				200,
+				211,
+				217,
+				220,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				466,
+				584,
+				180,
+				224,
+				226,
+				225
+			]
+		},
+		{
+			"ID": 37,
+			"resName": "PL_listBox",
+			"propertyIDs": [
+				434,
+				582,
+				583,
+				439,
+				545,
+				617,
+				210,
+				216,
+				227,
+				230,
+				581,
+				614,
+				371,
+				623,
+				200,
+				566,
+				567,
+				568,
+				440,
+				546,
+				618,
+				211,
+				217,
+				247,
+				231,
+				245,
+				201,
+				448,
+				569,
+				570,
+				437,
+				547,
+				619,
+				212,
+				248,
+				181,
+				442,
+				232,
+				241,
+				450,
+				438,
+				548,
+				213,
+				443,
+				233,
+				373,
+				539,
+				549,
+				214,
+				600,
+				459,
+				234,
+				249,
+				374,
+				594,
+				550,
+				616,
+				447,
+				235,
+				383,
+				444,
+				551,
+				215,
+				255,
+				221,
+				445,
+				250,
+				441,
+				595,
+				552,
+				620,
+				613,
+				517,
+				236,
+				408,
+				553,
+				526,
+				621,
+				466,
+				446,
+				412,
+				554,
+				449,
+				622,
+				180,
+				237,
+				498,
+				427,
+				555,
+				433,
+				457,
+				431,
+				601,
+				537,
+				458,
+				597,
+				538,
+				598,
+				625,
+				580,
+				378,
+				385,
+				384,
+				416,
+				391,
+				599,
+				386,
+				387,
+				398,
+				390,
+				415,
+				394,
+				395,
+				396,
+				400,
+				401,
+				402,
+				403,
+				404,
+				405,
+				407,
+				406,
+				411,
+				413,
+				414,
+				428,
+				429
+			]
+		},
+		{
+			"ID": 9,
+			"resName": "PL_matrix",
+			"propertyIDs": [
+				360,
+				210,
+				216,
+				227,
+				200,
+				361,
+				211,
+				217,
+				220,
+				222,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180,
+				224,
+				226,
+				225
+			]
+		},
+		{
+			"ID": 3,
+			"resName": "PL_oval",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				200,
+				211,
+				217,
+				220,
+				222,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180,
+				224,
+				226,
+				225
+			]
+		},
+		{
+			"ID": 18,
+			"resName": "PL_pictureButton",
+			"propertyIDs": [
+				300,
+				302,
+				210,
+				216,
+				227,
+				614,
+				371,
+				200,
+				353,
+				301,
+				303,
+				211,
+				217,
+				220,
+				246,
+				245,
+				254,
+				201,
+				354,
+				304,
+				212,
+				181,
+				241,
+				305,
+				213,
+				373,
+				306,
+				214,
+				249,
+				374,
+				307,
+				383,
+				215,
+				221,
+				250,
+				527,
+				517,
+				466,
+				180,
+				590,
+				253,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 29,
+			"resName": "PL_picturePopupMenu",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				614,
+				371,
+				200,
+				353,
+				211,
+				217,
+				220,
+				246,
+				245,
+				201,
+				354,
+				212,
+				181,
+				241,
+				322,
+				213,
+				373,
+				323,
+				320,
+				214,
+				249,
+				374,
+				321,
+				383,
+				215,
+				221,
+				250,
+				527,
+				517,
+				466,
+				180,
+				590,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 24,
+			"resName": "PL_pictureRadioButton",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				201,
+				212,
+				181,
+				241,
+				213,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				590,
+				253,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 100,
+			"resName": "PL_pluginArea",
+			"propertyIDs": [
+				202,
+				210,
+				216,
+				230,
+				203,
+				371,
+				200,
+				211,
+				217,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				181,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				215,
+				221,
+				250,
+				517,
+				236,
+				466,
+				180,
+				237,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				389,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 28,
+			"resName": "PL_popupDropDownList",
+			"propertyIDs": [
+				210,
+				216,
+				170,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				247,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				172,
+				181,
+				232,
+				241,
+				280,
+				213,
+				173,
+				233,
+				373,
+				204,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				277,
+				215,
+				255,
+				221,
+				250,
+				517,
+				236,
+				466,
+				180,
+				237,
+				590,
+				177,
+				585,
+				375,
+				378,
+				416,
+				391,
+				386,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 22,
+			"resName": "PL_radioButton",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				371,
+				200,
+				211,
+				217,
+				247,
+				220,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				181,
+				232,
+				241,
+				213,
+				233,
+				373,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				242,
+				215,
+				255,
+				221,
+				250,
+				517,
+				236,
+				466,
+				180,
+				590,
+				253,
+				375,
+				378,
+				385,
+				384,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 1,
+			"resName": "PL_rectangle",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				200,
+				211,
+				217,
+				220,
+				222,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180,
+				224,
+				226,
+				225
+			]
+		},
+		{
+			"ID": 2,
+			"resName": "PL_roundRectangle",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				200,
+				211,
+				217,
+				220,
+				222,
+				201,
+				212,
+				181,
+				213,
+				214,
+				215,
+				221,
+				517,
+				466,
+				180,
+				224,
+				226,
+				225,
+				218
+			]
+		},
+		{
+			"ID": 34,
+			"resName": "PL_ruler",
+			"propertyIDs": [
+				290,
+				210,
+				216,
+				270,
+				230,
+				371,
+				200,
+				291,
+				211,
+				217,
+				247,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				292,
+				212,
+				248,
+				181,
+				232,
+				241,
+				293,
+				213,
+				233,
+				298,
+				373,
+				294,
+				214,
+				234,
+				249,
+				374,
+				295,
+				235,
+				383,
+				296,
+				215,
+				255,
+				221,
+				250,
+				297,
+				517,
+				236,
+				466,
+				180,
+				590,
+				375,
+				378,
+				385,
+				557,
+				384,
+				416,
+				391,
+				386,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 25,
+			"resName": "PL_scrollableArea",
+			"propertyIDs": [
+				210,
+				216,
+				170,
+				227,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				172,
+				181,
+				232,
+				241,
+				280,
+				213,
+				173,
+				233,
+				373,
+				204,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				215,
+				174,
+				221,
+				250,
+				175,
+				517,
+				236,
+				466,
+				180,
+				237,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 40,
+			"resName": "PL_scroolBar",
+			"propertyIDs": [
+				290,
+				210,
+				216,
+				270,
+				371,
+				200,
+				291,
+				211,
+				217,
+				220,
+				222,
+				246,
+				245,
+				201,
+				212,
+				181,
+				241,
+				293,
+				213,
+				298,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				524,
+				525,
+				416,
+				391,
+				386,
+				390,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 36,
+			"resName": "PL_splitter",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				220,
+				246,
+				245,
+				201,
+				212,
+				181,
+				241,
+				213,
+				511,
+				373,
+				214,
+				249,
+				374,
+				383,
+				215,
+				221,
+				250,
+				517,
+				466,
+				180,
+				224,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 5,
+			"resName": "PL_staticPicture",
+			"propertyIDs": [
+				210,
+				216,
+				227,
+				200,
+				211,
+				217,
+				201,
+				212,
+				181,
+				213,
+				214,
+				350,
+				215,
+				527,
+				466,
+				180
+			]
+		},
+		{
+			"ID": 11,
+			"resName": "PL_subform",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				200,
+				211,
+				217,
+				247,
+				220,
+				261,
+				245,
+				201,
+				340,
+				212,
+				241,
+				341,
+				213,
+				373,
+				204,
+				342,
+				214,
+				343,
+				344,
+				215,
+				255,
+				221,
+				345,
+				517,
+				346,
+				466,
+				347,
+				180,
+				436,
+				348,
+				238,
+				349,
+				385,
+				384,
+				390,
+				394
+			]
+		},
+		{
+			"ID": 31,
+			"resName": "PL_tabControl",
+			"propertyIDs": [
+				210,
+				216,
+				170,
+				227,
+				230,
+				614,
+				371,
+				200,
+				211,
+				217,
+				171,
+				220,
+				231,
+				246,
+				245,
+				201,
+				212,
+				172,
+				181,
+				232,
+				241,
+				280,
+				213,
+				173,
+				233,
+				373,
+				204,
+				214,
+				234,
+				249,
+				374,
+				235,
+				383,
+				277,
+				215,
+				221,
+				250,
+				527,
+				517,
+				466,
+				544,
+				180,
+				590,
+				375,
+				378,
+				416,
+				391,
+				386,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 7,
+			"resName": "PL_text",
+			"propertyIDs": [
+				210,
+				216,
+				230,
+				200,
+				211,
+				217,
+				220,
+				222,
+				231,
+				201,
+				212,
+				181,
+				232,
+				213,
+				233,
+				214,
+				234,
+				235,
+				215,
+				221,
+				517,
+				236,
+				466,
+				180,
+				237,
+				592
+			]
+		},
+		{
+			"ID": 33,
+			"resName": "PL_thermometer",
+			"propertyIDs": [
+				290,
+				210,
+				216,
+				270,
+				230,
+				371,
+				200,
+				291,
+				211,
+				217,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				292,
+				212,
+				181,
+				232,
+				241,
+				293,
+				213,
+				233,
+				298,
+				373,
+				294,
+				214,
+				234,
+				249,
+				374,
+				295,
+				235,
+				383,
+				296,
+				215,
+				221,
+				250,
+				297,
+				517,
+				236,
+				466,
+				180,
+				375,
+				378,
+				299,
+				385,
+				384,
+				416,
+				391,
+				386,
+				390,
+				393,
+				376,
+				377,
+				394,
+				405,
+				407,
+				406
+			]
+		},
+		{
+			"ID": 13,
+			"resName": "PL_variable",
+			"propertyIDs": [
+				210,
+				216,
+				270,
+				170,
+				227,
+				230,
+				260,
+				371,
+				200,
+				211,
+				217,
+				247,
+				275,
+				171,
+				220,
+				222,
+				231,
+				246,
+				245,
+				201,
+				212,
+				248,
+				276,
+				172,
+				181,
+				232,
+				241,
+				213,
+				278,
+				173,
+				233,
+				373,
+				204,
+				214,
+				273,
+				279,
+				176,
+				234,
+				249,
+				374,
+				589,
+				235,
+				536,
+				383,
+				277,
+				215,
+				283,
+				255,
+				221,
+				250,
+				527,
+				272,
+				517,
+				236,
+				534,
+				543,
+				466,
+				523,
+				180,
+				436,
+				237,
+				590,
+				558,
+				238,
+				537,
+				538,
+				585,
+				560,
+				375,
+				587,
+				183,
+				378,
+				592,
+				385,
+				562,
+				384,
+				542,
+				559,
+				416,
+				522,
+				391,
+				596,
+				386,
+				387,
+				398,
+				390,
+				415,
+				393,
+				376,
+				377,
+				394,
+				401,
+				405,
+				407,
+				406,
+				372,
+				429
+			]
+		},
+		{
+			"ID": 41,
+			"resName": "PL_webArea",
+			"propertyIDs": [
+				210,
+				216,
+				371,
+				540,
+				200,
+				211,
+				217,
+				245,
+				541,
+				201,
+				212,
+				563,
+				241,
+				213,
+				591,
+				214,
+				249,
+				536,
+				215,
+				221,
+				250,
+				517,
+				534,
+				466,
+				523,
+				180,
+				385,
+				384,
+				391,
+				386,
+				394,
+				417,
+				418,
+				419,
+				420,
+				421,
+				422,
+				423
+			]
+		}
+	],
+	"controls": [
+		{
+			"ResKind": "KSED",
+			"ResID": 0,
+			"alternateButton": true,
+			"subcommand": 254,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XBUT",
+			"ResID": 2000,
+			"valueType": "event"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 0,
+			"automatic": true,
+			"other": true,
+			"none": true,
+			"paletteName": "fillColors",
+			"shiftPaletteName": "lineColors",
+			"altPaletteName": "altFillColors"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 1,
+			"automatic": false,
+			"other": true,
+			"none": false,
+			"paletteName": "lineColors",
+			"shiftPaletteName": "fillColors",
+			"altPaletteName": "altFillColors"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 2,
+			"automatic": true,
+			"other": true,
+			"none": false,
+			"paletteName": "fontColors",
+			"shiftPaletteName": "fillColors",
+			"altPaletteName": "altFillColors"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 3,
+			"automatic": true,
+			"other": true,
+			"none": false,
+			"paletteName": "fillColors",
+			"shiftPaletteName": "lineColors",
+			"altPaletteName": "altFillColors"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 4,
+			"automatic": true,
+			"other": true,
+			"none": false,
+			"paletteName": "lineColors",
+			"shiftPaletteName": "fillColors",
+			"altPaletteName": "altFillColors"
+		},
+		{
+			"ResKind": "XCCH",
+			"ResID": 5,
+			"automatic": true,
+			"other": true,
+			"none": false,
+			"paletteName": "altFillColors",
+			"shiftPaletteName": "lineColors",
+			"altPaletteName": "fillColors"
+		},
+		{
+			"ResKind": "XCHK",
+			"ResID": 2000,
+			"valueType": "boolean"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2000,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 239,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2001,
+			"choiceList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 497,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2002,
+			"choiceList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 518,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2003,
+			"choiceList": [
+				"PL_alphaFormat1",
+				"PL_alphaFormat2",
+				"PL_alphaFormat3",
+				"PL_alphaFormat4",
+				"PL_alphaFormat5"
+			],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 518,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2004,
+			"choiceList": [
+				"PL_numberFormat1",
+				"PL_numberFormat2",
+				"PL_numberFormat3",
+				"PL_numberFormat4",
+				"PL_numberFormat5",
+				"PL_numberFormat6",
+				"PL_numberFormat7",
+				"PL_numberFormat8",
+				"PL_numberFormat9",
+				"PL_numberFormat10",
+				"PL_numberFormat11",
+				"PL_numberFormat12"
+			],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 518,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2005,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 519,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2006,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 520,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2007,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 520,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2008,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 521,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2009,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 521,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRE",
+			"ResID": 2010,
+			"requiredList": [],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 521,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2000,
+			"requiredList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2001,
+			"requiredList": [
+				"PL_inheritedFromDatabase",
+				"PL_automatic",
+				"PL_macOS7",
+				"PL_windows311NT351",
+				"PL_Windows95982000NT4",
+				"PL_macOS9",
+				"PL_macTheme",
+				"PL_system",
+				"PL_printing"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2003,
+			"requiredList": [
+				"PL_noAction",
+				"PL_cancel",
+				"PL_accept",
+				"PL_nextRecord",
+				"PL_previousRecord",
+				"PL_firstRecord",
+				"PL_lastRecord",
+				"PL_deleteRecord",
+				"PL_nextPage",
+				"PL_previousPage",
+				"PL_firstPage",
+				"PL_lastPage",
+				"PL_editSubrecord",
+				"PL_deleteSubrecord",
+				"PL_addSubrecord",
+				"PL_automaticSplitter",
+				"PL_undo",
+				"PL_redo",
+				"PL_cut",
+				"PL_copy",
+				"PL_paste",
+				"PL_clear",
+				"PL_selectAll",
+				"PL_showClipboard",
+				"PL_databaseSettings",
+				"PL_design",
+				"PL_user",
+				"PL_application",
+				"PL_quit",
+				"PL_returnToDesignMode",
+				"PL_MSC"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2004,
+			"requiredList": [
+				"PL_noAction",
+				"PL_gotoPage"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2005,
+			"requiredList": [
+				"PL_none",
+				"PL_grow",
+				"PL_move"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2006,
+			"requiredList": [
+				"PL_inheritedFromForm",
+				"PL_automatic",
+				"PL_macOS7",
+				"PL_windows311NT351",
+				"PL_Windows95982000NT4",
+				"PL_macOS9",
+				"PL_macTheme",
+				"PL_system",
+				"PL_printing"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2007,
+			"requiredList": [
+				"PL_none",
+				"PL_plain",
+				"PL_dotted",
+				"PL_raised",
+				"PL_sunken",
+				"PL_double"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2008,
+			"choiceList": [],
+			"saveAs": "value",
+			"fontList": true,
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2009,
+			"choiceList": [
+				8,
+				9,
+				10,
+				12,
+				14,
+				18,
+				24
+			],
+			"saveAs": "value",
+			"valueType": "integer",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2010,
+			"requiredList": [
+				"PL_textAlignDefault",
+				"PL_textAlignLeft",
+				"PL_textAlignCenter",
+				"PL_textAlignRight"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2011,
+			"requiredList": [
+				"PL_notUsed",
+				"PL_multipleSelection",
+				"PL_notUsed"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2012,
+			"requiredList": [
+				"PL_textAlignLeft",
+				"PL_textAlignRight"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2013,
+			"requiredList": [
+				"PL_top",
+				"PL_bottom"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2014,
+			"requiredList": [
+				"PL_none",
+				"PL_detailForm",
+				"PL_listForm",
+				"PL_detailFormforPrinting",
+				"PL_listFormforPrinting"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2015,
+			"requiredList": [
+				"PL_scaled",
+				"PL_truncatedCentered",
+				"PL_replicated",
+				"PL_truncatedNonCentered"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2017,
+			"requiredList": [
+				"PL_variable",
+				"PL_pictureLibrary",
+				"PL_resourceFile",
+				"PL_file"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2018,
+			"requiredList": [
+				"PL_none",
+				"PL_typeAlpha",
+				"PL_typeText",
+				"PL_typeNumeric",
+				"PL_typeDate",
+				"PL_typeTime",
+				"PL_typePicture",
+				"PL_typeObject",
+				"PL_typeCollection"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2019,
+			"requiredList": [
+				"PL_checkBox",
+				"PL_radioButton"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2021,
+			"requiredList": [
+				"PL_variableFrame",
+				"PL_fixedTruncation",
+				"PL_fixedMultipleRecords"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2022,
+			"requiredList": [
+				"PL_truncatedCentered",
+				"PL_scaledToFit",
+				"PL_onBackground",
+				"PL_truncatedNonCentered",
+				"PL_scaledToFitProportional",
+				"PL_scaledToFitCenteredProportional",
+				"PL_replicated"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2023,
+			"requiredList": [
+				"PL_HHMMSS",
+				"PL_HHMM",
+				"PL_hourMinSec",
+				"PL_hourMin",
+				"PL_HHMMAMPM",
+				"PL_MMSS",
+				"PL_minSec",
+				"PL_ISOdateTime",
+				"PL_systemTimeShort",
+				"PL_systemTimeLongAbbreviated",
+				"PL_systemTimeLong"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2024,
+			"requiredList": [
+				"PL_systemDateShort",
+				"PL_systemDateAbbreviated",
+				"PL_systemDateLong",
+				"PL_internalDateShortSpecial",
+				"PL_internalDateLong",
+				"PL_internalDateAbbreviated",
+				"PL_internalDateShort",
+				"PL_ISOdateTime"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2028,
+			"requiredList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2029,
+			"requiredList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2030,
+			"requiredList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2031,
+			"requiredList": [
+				"PL_top",
+				"PL_bottom"
+			],
+			"saveAs": "value",
+			"alternateButton": true,
+			"subcommand": 0,
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2033,
+			"requiredList": [
+				"PL_left",
+				"PL_right"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2034,
+			"requiredList": [
+				"PL_onTheLeft",
+				"PL_onTheTop",
+				"PL_onTheRight",
+				"PL_onTheBottom",
+				"PL_inTheMiddle"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2035,
+			"requiredList": [
+				"PL_none",
+				"PL_backgroundOffset",
+				"PL_pushButton",
+				"PL_toolbarButton",
+				"PL_custom",
+				"PL_circle",
+				"PL_smallSystemSquare",
+				"PL_officeXP",
+				"PL_bevel",
+				"PL_roundedBevel",
+				"PL_collapseExpand",
+				"PL_help",
+				"PL_osXtextured",
+				"PL_osXgradient"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2036,
+			"requiredList": [
+				"PL_popUp",
+				"PL_checkBox"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2037,
+			"requiredList": [
+				"PL_typeAlpha",
+				"PL_typeText",
+				"PL_typeNumeric",
+				"PL_typeDate",
+				"PL_typeTime",
+				"PL_typePicture",
+				"PL_typeBoolean",
+				"PL_typeObject"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2038,
+			"requiredList": [
+				"PL_alwaysVisible",
+				"PL_ifRecordSelected",
+				"PL_ifRecordNotSelected"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2039,
+			"requiredList": [
+				"PL_none",
+				"PL_single",
+				"PL_multiple"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2040,
+			"requiredList": [
+				"PL_doNothing",
+				"PL_editRecord",
+				"PL_displayRecord"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2041,
+			"requiredList": [
+				"PL_doNothing",
+				"PL_addRecord"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2042,
+			"requiredList": [
+				"PL_none",
+				"PL_linked",
+				"PL_separated"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2043,
+			"requiredList": [
+				"PL_inheritedFromForm",
+				"PL_system",
+				"PL_printing"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2044,
+			"requiredList": [
+				"PL_system",
+				"PL_printing"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2045,
+			"requiredList": [
+				"PL_none",
+				"PL_plain",
+				"PL_dotted",
+				"PL_raised",
+				"PL_sunken",
+				"PL_double",
+				"PL_system"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2046,
+			"requiredList": [
+				"PL_numericFormat",
+				"PL_threeStatesCheckbox"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2047,
+			"choiceList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2048,
+			"requiredList": [
+				"PL_arrays",
+				"PL_currentSelection",
+				"PL_namedSelection",
+				"PL_collection"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2049,
+			"requiredList": [
+				"PL_automatic",
+				"PL_yes",
+				"PL_no"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2050,
+			"requiredList": [
+				"PL_automatic",
+				"PL_yes",
+				"PL_no"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2051,
+			"requiredList": [
+				"PL_progressBar",
+				"PL_barberShop",
+				"PL_asynchronousProgressBar"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2052,
+			"requiredList": [
+				"PL_ruler",
+				"PL_numericStepperr"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2053,
+			"requiredList": [
+				"PL_html",
+				"PL_rtf"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2054,
+			"requiredList": [
+				"PL_custom",
+				"PL_minimum",
+				"PL_maximum",
+				"PL_sum",
+				"PL_count",
+				"PL_average",
+				"PL_standardDeviation",
+				"PL_variance",
+				"PL_sumSquare"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2057,
+			"requiredList": [
+				"PL_textAlignDefault",
+				"PL_textAlignTop",
+				"PL_textAlignCenter",
+				"PL_textAlignBottom"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2058,
+			"requiredList": [
+				"PL_plain",
+				"PL_dotted",
+				"PL_raised",
+				"PL_sunken",
+				"PL_double"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2059,
+			"requiredList": [
+				"PL_Value",
+				"PL_Reference"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2060,
+			"requiredList": [
+				"PL_rotation_0",
+				"PL_rotation_90",
+				"PL_rotation_180",
+				"PL_rotation_270"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2061,
+			"requiredList": [
+				"PL_no",
+				"PL_yes"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2062,
+			"requiredList": [
+				"PL_dpi72",
+				"PL_dpi96",
+				"PL_dpiAuto"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2063,
+			"choiceList": [
+				"PL_zoom25",
+				"PL_zoom50",
+				"PL_zoom75",
+				"PL_zoom100",
+				"PL_zoom125",
+				"PL_zoom150",
+				"PL_zoom175",
+				"PL_zoom200",
+				"PL_zoom300",
+				"PL_zoom400"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2064,
+			"requiredList": [
+				"PL_pageViewDraft",
+				"PL_pageViewPage",
+				"PL_pageViewWeb"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2065,
+			"choiceList": [],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": ""
+		},
+		{
+			"ResKind": "XDRP",
+			"ResID": 2066,
+			"requiredList": [
+				"PL_typeAlpha",
+				"PL_typeText",
+				"PL_typeNumeric",
+				"PL_typeDate",
+				"PL_typePicture",
+				"PL_typeBoolean"
+			],
+			"saveAs": "value",
+			"valueType": "text",
+			"choiceListMode": "display"
+		},
+		{
+			"ResKind": "XDSH",
+			"ResID": 0
+		},
+		{
+			"ResKind": "XEBT",
+			"ResID": 2000,
+			"alternateButton": true,
+			"subcommand": 530,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XEBT",
+			"ResID": 2001,
+			"alternateButton": true,
+			"subcommand": 531,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XEBT",
+			"ResID": 2002,
+			"alternateButton": true,
+			"subcommand": 532,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XEBT",
+			"ResID": 2003,
+			"alternateButton": true,
+			"subcommand": 533,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XEDT",
+			"ResID": 2000,
+			"valueType": "text"
+		},
+		{
+			"ResKind": "XEDT",
+			"ResID": 2001,
+			"valueType": "integer"
+		},
+		{
+			"ResKind": "XEDT",
+			"ResID": 2002,
+			"valueType": "real"
+		},
+		{
+			"ResKind": "XEST",
+			"ResID": 2000,
+			"alternateButton": true,
+			"subcommand": 577,
+			"valueType": "integer",
+			"unitReference": 1,
+			"unitsList": [
+				"PL_unitPixels",
+				"PL_unitLines"
+			]
+		},
+		{
+			"ResKind": "XEST",
+			"ResID": 2001,
+			"alternateButton": true,
+			"subcommand": 578,
+			"valueType": "integer",
+			"unitReference": 1,
+			"unitsList": [
+				"PL_unitPixels",
+				"PL_unitLines"
+			]
+		},
+		{
+			"ResKind": "XEST",
+			"ResID": 2002,
+			"alternateButton": true,
+			"subcommand": 579,
+			"valueType": "integer",
+			"unitReference": 1,
+			"unitsList": [
+				"PL_unitPixels",
+				"PL_unitLines"
+			]
+		},
+		{
+			"ResKind": "XEST",
+			"ResID": 2003,
+			"alternateButton": true,
+			"subcommand": 623,
+			"valueType": "integer",
+			"unitReference": 1,
+			"unitsList": [
+				"PL_unitPixels",
+				"PL_unitLines"
+			]
+		},
+		{
+			"ResKind": "XEST",
+			"ResID": 2004,
+			"alternateButton": true,
+			"subcommand": 624,
+			"valueType": "integer",
+			"unitReference": 1,
+			"unitsList": [
+				"PL_unitPixels",
+				"PL_unitLines"
+			]
+		},
+		{
+			"ResKind": "XLCH",
+			"ResID": 2000
+		}
+	],
+	"lists": null
+}

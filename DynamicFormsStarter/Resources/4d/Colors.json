@@ -1,0 +1,490 @@
+{
+	"fillColors": [
+		{
+			"name": ":xliff:#ffb6c1",
+			"rgb": "#ffb6c1"
+		},
+		{
+			"name": ":xliff:#ff6347",
+			"rgb": "#ff6347"
+		},
+		{
+			"name": ":xliff:#ff0000",
+			"rgb": "#ff0000"
+		},
+		{
+			"name": ":xliff:#dc143c",
+			"rgb": "#dc143c"
+		},
+		{
+			"name": ":xliff:#800000",
+			"rgb": "#800000"
+		},
+		{
+			"name": ":xliff:#fffacd",
+			"rgb": "#fffacd"
+		},
+		{
+			"name": ":xliff:#f5deb3",
+			"rgb": "#f5deb3"
+		},
+		{
+			"name": ":xliff:#ffff00",
+			"rgb": "#ffff00"
+		},
+		{
+			"name": ":xliff:#ffd700",
+			"rgb": "#ffd700"
+		},
+		{
+			"name": ":xliff:#8b4513",
+			"rgb": "#8b4513"
+		},
+		{
+			"name": ":xliff:#98fb98",
+			"rgb": "#98fb98"
+		},
+		{
+			"name": ":xliff:#adff2f",
+			"rgb": "#adff2f"
+		},
+		{
+			"name": ":xliff:#00ff00",
+			"rgb": "#00ff00"
+		},
+		{
+			"name": ":xliff:#008000",
+			"rgb": "#008000"
+		},
+		{
+			"name": ":xliff:#006400",
+			"rgb": "#006400"
+		},
+		{
+			"name": ":xliff:#b1c4dd",
+			"rgb": "#b1c4dd"
+		},
+		{
+			"name": ":xliff:#6495ed",
+			"rgb": "#6495ed"
+		},
+		{
+			"name": ":xliff:#1e90ff",
+			"rgb": "#1e90ff"
+		},
+		{
+			"name": ":xliff:#0000cd",
+			"rgb": "#0000cd"
+		},
+		{
+			"name": ":xliff:#191970",
+			"rgb": "#191970"
+		},
+		{
+			"name": ":xliff:#dda0dd",
+			"rgb": "#dda0dd"
+		},
+		{
+			"name": ":xliff:#da70d6",
+			"rgb": "#da70d6"
+		},
+		{
+			"name": ":xliff:#9400d3",
+			"rgb": "#9400d3"
+		},
+		{
+			"name": ":xliff:#800080",
+			"rgb": "#800080"
+		},
+		{
+			"name": ":xliff:#4b0082",
+			"rgb": "#4b0082"
+		},
+		{
+			"name": ":xliff:#FFFFFF",
+			"rgb": "#FFFFFF"
+		},
+		{
+			"name": ":xliff:#c0c0c0",
+			"rgb": "#c0c0c0"
+		},
+		{
+			"name": ":xliff:#808080",
+			"rgb": "#808080"
+		},
+		{
+			"name": ":xliff:#696969",
+			"rgb": "#696969"
+		},
+		{
+			"name": ":xliff:#000000",
+			"rgb": "#000000"
+		}
+	],
+	"lineColors": [
+				{
+			"name": ":xliff:#ffb6c1",
+			"rgb": "#ffb6c1"
+		},
+		{
+			"name": ":xliff:#ff6347",
+			"rgb": "#ff6347"
+		},
+		{
+			"name": ":xliff:#ff0000",
+			"rgb": "#ff0000"
+		},
+		{
+			"name": ":xliff:#dc143c",
+			"rgb": "#dc143c"
+		},
+		{
+			"name": ":xliff:#800000",
+			"rgb": "#800000"
+		},
+		{
+			"name": ":xliff:#fffacd",
+			"rgb": "#fffacd"
+		},
+		{
+			"name": ":xliff:#f5deb3",
+			"rgb": "#f5deb3"
+		},
+		{
+			"name": ":xliff:#ffff00",
+			"rgb": "#ffff00"
+		},
+		{
+			"name": ":xliff:#ffd700",
+			"rgb": "#ffd700"
+		},
+		{
+			"name": ":xliff:#8b4513",
+			"rgb": "#8b4513"
+		},
+		{
+			"name": ":xliff:#98fb98",
+			"rgb": "#98fb98"
+		},
+		{
+			"name": ":xliff:#adff2f",
+			"rgb": "#adff2f"
+		},
+		{
+			"name": ":xliff:#00ff00",
+			"rgb": "#00ff00"
+		},
+		{
+			"name": ":xliff:#008000",
+			"rgb": "#008000"
+		},
+		{
+			"name": ":xliff:#006400",
+			"rgb": "#006400"
+		},
+		{
+			"name": ":xliff:#b1c4dd",
+			"rgb": "#b1c4dd"
+		},
+		{
+			"name": ":xliff:#6495ed",
+			"rgb": "#6495ed"
+		},
+		{
+			"name": ":xliff:#1e90ff",
+			"rgb": "#1e90ff"
+		},
+		{
+			"name": ":xliff:#0000cd",
+			"rgb": "#0000cd"
+		},
+		{
+			"name": ":xliff:#191970",
+			"rgb": "#191970"
+		},
+		{
+			"name": ":xliff:#dda0dd",
+			"rgb": "#dda0dd"
+		},
+		{
+			"name": ":xliff:#da70d6",
+			"rgb": "#da70d6"
+		},
+		{
+			"name": ":xliff:#9400d3",
+			"rgb": "#9400d3"
+		},
+		{
+			"name": ":xliff:#800080",
+			"rgb": "#800080"
+		},
+		{
+			"name": ":xliff:#4b0082",
+			"rgb": "#4b0082"
+		},
+		{
+			"name": ":xliff:#FFFFFF",
+			"rgb": "#FFFFFF"
+		},
+		{
+			"name": ":xliff:#c0c0c0",
+			"rgb": "#c0c0c0"
+		},
+		{
+			"name": ":xliff:#808080",
+			"rgb": "#808080"
+		},
+		{
+			"name": ":xliff:#696969",
+			"rgb": "#696969"
+		},
+		{
+			"name": ":xliff:#000000",
+			"rgb": "#000000"
+		}
+	],
+	"fontColors": [
+				{
+			"name": ":xliff:#ffb6c1",
+			"rgb": "#ffb6c1"
+		},
+		{
+			"name": ":xliff:#ff6347",
+			"rgb": "#ff6347"
+		},
+		{
+			"name": ":xliff:#ff0000",
+			"rgb": "#ff0000"
+		},
+		{
+			"name": ":xliff:#dc143c",
+			"rgb": "#dc143c"
+		},
+		{
+			"name": ":xliff:#800000",
+			"rgb": "#800000"
+		},
+		{
+			"name": ":xliff:#fffacd",
+			"rgb": "#fffacd"
+		},
+		{
+			"name": ":xliff:#f5deb3",
+			"rgb": "#f5deb3"
+		},
+		{
+			"name": ":xliff:#ffff00",
+			"rgb": "#ffff00"
+		},
+		{
+			"name": ":xliff:#ffd700",
+			"rgb": "#ffd700"
+		},
+		{
+			"name": ":xliff:#8b4513",
+			"rgb": "#8b4513"
+		},
+		{
+			"name": ":xliff:#98fb98",
+			"rgb": "#98fb98"
+		},
+		{
+			"name": ":xliff:#adff2f",
+			"rgb": "#adff2f"
+		},
+		{
+			"name": ":xliff:#00ff00",
+			"rgb": "#00ff00"
+		},
+		{
+			"name": ":xliff:#008000",
+			"rgb": "#008000"
+		},
+		{
+			"name": ":xliff:#006400",
+			"rgb": "#006400"
+		},
+		{
+			"name": ":xliff:#b1c4dd",
+			"rgb": "#b1c4dd"
+		},
+		{
+			"name": ":xliff:#6495ed",
+			"rgb": "#6495ed"
+		},
+		{
+			"name": ":xliff:#1e90ff",
+			"rgb": "#1e90ff"
+		},
+		{
+			"name": ":xliff:#0000cd",
+			"rgb": "#0000cd"
+		},
+		{
+			"name": ":xliff:#191970",
+			"rgb": "#191970"
+		},
+		{
+			"name": ":xliff:#dda0dd",
+			"rgb": "#dda0dd"
+		},
+		{
+			"name": ":xliff:#da70d6",
+			"rgb": "#da70d6"
+		},
+		{
+			"name": ":xliff:#9400d3",
+			"rgb": "#9400d3"
+		},
+		{
+			"name": ":xliff:#800080",
+			"rgb": "#800080"
+		},
+		{
+			"name": ":xliff:#4b0082",
+			"rgb": "#4b0082"
+		},
+		{
+			"name": ":xliff:#FFFFFF",
+			"rgb": "#FFFFFF"
+		},
+		{
+			"name": ":xliff:#c0c0c0",
+			"rgb": "#c0c0c0"
+		},
+		{
+			"name": ":xliff:#808080",
+			"rgb": "#808080"
+		},
+		{
+			"name": ":xliff:#696969",
+			"rgb": "#696969"
+		},
+		{
+			"name": ":xliff:#000000",
+			"rgb": "#000000"
+		}
+	],
+	"altFillColors": [
+				{
+			"name": ":xliff:#ffb6c1",
+			"rgb": "#ffb6c1"
+		},
+		{
+			"name": ":xliff:#ff6347",
+			"rgb": "#ff6347"
+		},
+		{
+			"name": ":xliff:#ff0000",
+			"rgb": "#ff0000"
+		},
+		{
+			"name": ":xliff:#dc143c",
+			"rgb": "#dc143c"
+		},
+		{
+			"name": ":xliff:#800000",
+			"rgb": "#800000"
+		},
+		{
+			"name": ":xliff:#fffacd",
+			"rgb": "#fffacd"
+		},
+		{
+			"name": ":xliff:#f5deb3",
+			"rgb": "#f5deb3"
+		},
+		{
+			"name": ":xliff:#ffff00",
+			"rgb": "#ffff00"
+		},
+		{
+			"name": ":xliff:#ffd700",
+			"rgb": "#ffd700"
+		},
+		{
+			"name": ":xliff:#8b4513",
+			"rgb": "#8b4513"
+		},
+		{
+			"name": ":xliff:#98fb98",
+			"rgb": "#98fb98"
+		},
+		{
+			"name": ":xliff:#adff2f",
+			"rgb": "#adff2f"
+		},
+		{
+			"name": ":xliff:#00ff00",
+			"rgb": "#00ff00"
+		},
+		{
+			"name": ":xliff:#008000",
+			"rgb": "#008000"
+		},
+		{
+			"name": ":xliff:#006400",
+			"rgb": "#006400"
+		},
+		{
+			"name": ":xliff:#b1c4dd",
+			"rgb": "#b1c4dd"
+		},
+		{
+			"name": ":xliff:#6495ed",
+			"rgb": "#6495ed"
+		},
+		{
+			"name": ":xliff:#1e90ff",
+			"rgb": "#1e90ff"
+		},
+		{
+			"name": ":xliff:#0000cd",
+			"rgb": "#0000cd"
+		},
+		{
+			"name": ":xliff:#191970",
+			"rgb": "#191970"
+		},
+		{
+			"name": ":xliff:#dda0dd",
+			"rgb": "#dda0dd"
+		},
+		{
+			"name": ":xliff:#da70d6",
+			"rgb": "#da70d6"
+		},
+		{
+			"name": ":xliff:#9400d3",
+			"rgb": "#9400d3"
+		},
+		{
+			"name": ":xliff:#800080",
+			"rgb": "#800080"
+		},
+		{
+			"name": ":xliff:#4b0082",
+			"rgb": "#4b0082"
+		},
+		{
+			"name": ":xliff:#FFFFFF",
+			"rgb": "#FFFFFF"
+		},
+		{
+			"name": ":xliff:#c0c0c0",
+			"rgb": "#c0c0c0"
+		},
+		{
+			"name": ":xliff:#808080",
+			"rgb": "#808080"
+		},
+		{
+			"name": ":xliff:#696969",
+			"rgb": "#696969"
+		},
+		{
+			"name": ":xliff:#000000",
+			"rgb": "#000000"
+		}
+	]
+}
